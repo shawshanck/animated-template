@@ -1,7 +1,7 @@
 # animated-template
 Using 3rd party CSS and JS on a standalone HTML page.
 
-<h3>https://shawshanck.github.io/infinite-scroll/</h3>
+<h3>https://shawshanck.github.io/animated-template/</h3>
 
 * External CSS
 * External JS Library
